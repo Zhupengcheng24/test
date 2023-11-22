@@ -1,0 +1,36 @@
+{
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": true
+    },
+    {
+      "id": "数控系统功能项展示",
+      "isDefault": false
+    },
+    {
+      "id": "页面1",
+      "isDefault": false
+    },
+    {
+      "id": "页面2",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#F3F1C7",
+  "icon": "bird",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "viewerLayout": "{\"color\":\"var(--ads-color-brand)\",\"logoUrl\":\"\",\"name\":\"应用 2\",\"treeData\":[],\"outsiderTree\":[{\"title\":\"数控系统功能项展示\",\"pageId\":\"655d66888ba06f002b6b5f3b\",\"isPage\":true},{\"title\":\"页面2\",\"pageId\":\"655d6ac38ba06f002b6b5f54\",\"isPage\":true},{\"title\":\"页面1\",\"pageId\":\"655d6a4e8ba06f002b6b5f50\",\"isPage\":true},{\"title\":\"Page1\",\"pageId\":\"655d60728ba06f002b6b5ec0\",\"isPage\":true}]}",
+  "deleted": false
+}
